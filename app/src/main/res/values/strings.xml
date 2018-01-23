@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="close">CLOSE</string>
+
+    <string name="check_internet">check internet connection</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+
+    <string name="thumb_path">http://image.tmdb.org/t/p/w185/</string>
+    <string name="details_thumb">http://image.tmdb.org/t/p/w342/</string>
+    <string name="reviewsTitle">Reviews</string>
+    <string name="videosTitle">Videos</string>
+    <string name="my_favorite"> My Favorite</string>
+    <string name="added_to_favorite">Added to Favorite</string>
+    <string name="removed_from_favorite">Removed from Favorite</string>
+    <string name="favorite">Favorite</string>
+</resources>
